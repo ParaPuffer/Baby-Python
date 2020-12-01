@@ -43,4 +43,6 @@ elif age < 125:
         savingspace(payment)
 else:
     print("It's amazing that you're still smoking at this ripe old age. It's on the house. Enjoy.")
+    
 
+input()
